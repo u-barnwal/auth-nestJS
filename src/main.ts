@@ -7,7 +7,6 @@ const port = process.env.PORT || 5000;
 
 async function bootstrap() {
   const app = await NestFactory.create(AppModule);
-  await app.listen(port);
 
   app.use(
     session({
@@ -20,6 +19,8 @@ async function bootstrap() {
 
   app.use(passport.initialize());
   app.use(passport.session());
+
+  await app.listen(port);
 
   console.log(`Started on http://localhost:${port}`);
 }
