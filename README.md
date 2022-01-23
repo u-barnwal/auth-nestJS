@@ -1,7 +1,7 @@
 # Auth-NestJS
 A simple back-end project to implement user authentication with the Session and JWT method. Check the following branches for the implementation:
 
-|**This branch has the implementation of the Session method!**|
+|This branch has the implementation of the **Session** method!|
 |-|
 
 Branch for JWT Implementation: [jwt](https://github.com/u-barnwal/auth-nestJS/tree/jwt)
