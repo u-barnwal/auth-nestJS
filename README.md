@@ -24,8 +24,8 @@ $ yarn start:prod
 ```
 
 ## Credits
-- NestJS Authentication from Marius Espejo: https://youtu.be/_L225zpUK0M
-- NestJS Crash Course from Marius Espejo: https://youtu.be/2n3xS89TJMI
+- **NestJS Authentication** from Marius Espejo: https://youtu.be/_L225zpUK0M
+- **NestJS Crash Course** from Marius Espejo: https://youtu.be/2n3xS89TJMI
 
 ---
 
